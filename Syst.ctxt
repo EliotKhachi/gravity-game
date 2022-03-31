@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Syst()
+comment1.params=
+comment1.target=java.util.ArrayList\ getSyst()
+comment2.params=
+comment2.target=void\ clear()
+comment3.params=p
+comment3.target=void\ add(Planet)
+comment4.params=p
+comment4.target=boolean\ inBounds(Planet)
+comment5.params=window
+comment5.target=void\ paint(java.awt.Graphics)
+numComments=6
